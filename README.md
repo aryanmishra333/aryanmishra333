@@ -38,7 +38,7 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 ## 🛠️ Tech Stack
 
 **Backend & Infra**: Python, Node.js, Express, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
-**Databases**: MongoDB, MySQL, PostgreSQL, SQLite  
+**Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Supabase  
 **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
 **Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
 **Languages**: Python, JavaScript, C++
