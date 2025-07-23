@@ -47,10 +47,8 @@ Frontend:     React · Tailwind (when needed)
 
 ```
 ---
-
-## 📈 GitHub Stats
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanmishra333&show_icons=true&theme=tokyonight)  
+### Activity Graph: A Visual History
+![alt text](https://github-activity-graph-psi.vercel.app/graph?username=Bhavesh2k4&theme=redical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra333&layout=compact&theme=tokyonight)
 
 ---
