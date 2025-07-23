@@ -121,8 +121,8 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 
 ## 📫 Let’s Connect
 
-- 🧠 [LeetCode](https://leetcode.com/u/Aryan_Mishra_3010/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-mishra-9068b31a1/)
+- 📧 Email: [aryanmishra11c@gmail.com](mailto:aryanmishra11c@gmail.com)
+- 🔗 LinkedIn: [linkedin.com](https://github.com/aryanmishra333)
 
 ---
 
