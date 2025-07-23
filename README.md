@@ -34,7 +34,6 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
   - Data Structures and Algorithm
   - System Design & Core CS
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
-- 🛠️ Mostly working with Python, FastAPI, and microservice-based designs
 
 ---
 
