@@ -35,6 +35,15 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
   - System Design & Core CS
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
 
+## 🛠️ Tech Stack
+
+**Backend & Infra**: Python, Node.js, Express, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
+**Databases**: MongoDB, MySQL, PostgreSQL, SQLite  
+**Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
+**Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
+**Languages**: Python, JavaScript, TypeScript, C++
+
+
 
 ## 📫 Let’s Connect
 
