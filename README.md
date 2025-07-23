@@ -41,7 +41,7 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 **Databases**: MongoDB, MySQL, PostgreSQL, SQLite  
 **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
 **Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
-**Languages**: Python, JavaScript, TypeScript, C++
+**Languages**: Python, JavaScript, C++
 
 
 
