@@ -48,7 +48,7 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 ## 📫 Let’s Connect
 
 - 📧 Email: [aryanmishra11c@gmail.com](mailto:aryanmishra11c@gmail.com)
-- 🔗 LinkedIn: [linkedin.com]([https://github.com/aryanmishra333](https://www.linkedin.com/in/aryan-mishra-9068b31a1/))
+- 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/aryan-mishra-9068b31a1/)
 
 ---
 
