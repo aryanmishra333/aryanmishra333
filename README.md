@@ -45,7 +45,7 @@ Backend:      FastAPI · Node.js · Express
 Infra/DevOps: Kafka · Docker · Supabase · Elasticsearch · Fluentd · Kibana
 Frontend:     React · Tailwind (when needed)
 
-
+```
 ---
 
 ## 📈 GitHub Stats
