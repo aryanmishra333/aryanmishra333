@@ -42,7 +42,7 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 
 ---
 ### Activity Graph: A Visual History
-![alt text](https://github-activity-graph-psi.vercel.app/graph?username=aryamishra333&theme=redical)
+![alt text](https://github-activity-graph-psi.vercel.app/graph?username=aryanmishra333&theme=redical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmishra333&layout=compact&theme=tokyonight)
 
 ---
