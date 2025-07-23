@@ -31,8 +31,8 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 - 🎓 Final Year CS Undergrad @ PES University, Bengaluru
 - 🚀 Focused on building fast, scalable, and AI-powered tools
 - 🌱 Currently upskilling in:
-  - Graphs, Trees & DP (Striver DSA)
-  - System Design & Core CS (OS, CN, DBMS, OOP)
+  - Data Structures and Algorithm
+  - System Design & Core CS
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
 - 🛠️ Mostly working with Python, FastAPI, and microservice-based designs
 
