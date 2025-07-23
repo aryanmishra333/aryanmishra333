@@ -38,7 +38,6 @@ I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into wo
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-## 🛠️ Tech Stack
 
 ### 💻 Backend & Infra
 <p align="left">
