@@ -39,6 +39,7 @@ I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into 
 
 **Backend & Infra**: Python, Node.js, Express, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
 **Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Supabase  
+**AI integration**: Google's Gemini AI APIs, Meta AI OCR tools, Tesseract OCR, EasyOCR
 **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
 **Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
 **Languages**: Python, JavaScript, C++
