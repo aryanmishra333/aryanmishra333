@@ -42,7 +42,7 @@ I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into 
 **AI integration**: Google's Gemini AI APIs, Meta AI OCR tools, Tesseract OCR, EasyOCR  
 **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
 **Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
-**Languages**: Python, JavaScript, C++
+**Languages**: Python, C++,Javascript, Java, C
 
 
 
