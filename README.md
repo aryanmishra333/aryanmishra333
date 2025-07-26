@@ -32,7 +32,7 @@ I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into 
 - 🚀 Focused on building fast, scalable, and AI-powered tools
 - 🌱 Currently upskilling in:
   - Data Structures and Algorithm
-  - System Design & Core CS
+  - System Design & Core CS (OOP, DBMS, OS, CN)
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
 
 ## 🛠️ Tech Stack
