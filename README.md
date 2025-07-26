@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # I'm Aryan Mishra
 
-I'm a Fullstack Developer & AI tinkerer who enjoys turning chaotic ideas into working systems.
+I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into working systems.
 
 ---
 
