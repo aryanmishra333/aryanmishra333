@@ -37,7 +37,7 @@ I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into 
 
 ## 🛠️ Tech Stack
 
-**Backend & Infra**: Node.js, Express, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
+**Backend & Infra**: Node.js, Express.js, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
 **Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Supabase  
 **AI integration**: Google's Gemini AI APIs, Meta AI OCR tools, Tesseract OCR, EasyOCR  
 **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
