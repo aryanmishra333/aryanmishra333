@@ -51,7 +51,7 @@ I'm a Fullstack Developer & AI enthusiast who enjoys turning chaotic ideas into 
 - 📧 Email: [mailMe](mailto:aryanmishra11c@gmail.com)
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aryan-mishra-9068b31a1/)
 
-## 🗣️Checkout My Problem Solving Skills @Leetcode
+## 🗣️ Checkout My Problem Solving Skills @Leetcode
 - Leetcode id : [click](https://leetcode.com/u/Aryan_Mishra_3010/)
 
 ---
