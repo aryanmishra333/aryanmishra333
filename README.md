@@ -51,7 +51,7 @@ I'm a Systems, Web Development, Databases, AI enthusiast who enjoys turning chao
 - 📧 Email: [mailMe](mailto:aryanmishra11c@gmail.com)
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aryan-mishra-9068b31a1/)
 
-## 🗣️ Checkout My Problem Solving Skills @Leetcode
+## 🗣️ Checkout My Problem Solving Skills [Knight @Leetcode]
 - Leetcode id : [click](https://leetcode.com/u/Aryan_Mishra_3010/)
 
 ---
