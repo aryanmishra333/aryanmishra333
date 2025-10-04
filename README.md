@@ -29,7 +29,7 @@ I'm a Systems, Web Development, Databases, AI enthusiast who enjoys turning chao
 ## 👨‍💻 About Me
 
 - 🎓 Final Year CS Undergrad @ PES University, Bengaluru
-- 🚀 Focused on building fast, scalable, and AI-powered tools
+- 🚀 Focused on building fast, scalable, and AI-powered systems and tools
 - 🌱 Currently upskilling in:
   - Data Structures and Algorithm
   - System Design & Core CS (OOP, DBMS, OS, CN)
