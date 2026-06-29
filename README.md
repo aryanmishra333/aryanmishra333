@@ -1,56 +1,42 @@
-
-<!--
-**aryanmishra333/aryanmishra333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋
-
-<!--
-**aryanmishra/aryanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 # I'm Aryan Mishra
 
-I'm a Systems, Web Development, Databases, AI enthusiast who enjoys turning chaotic ideas into working systems.
+I'm a Systems, Web Development, Databases, and AI enthusiast who enjoys turning chaotic ideas into working systems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year CS Undergrad @ PES University, Bengaluru
+- 🎓 Final Year CS Undergrad @ PES University, Bengaluru (CGPA: 9.22)
+- 💼 Software Engineer Intern @ Apple
 - 🚀 Focused on building fast, scalable, and AI-powered systems and tools
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
+- 📄 Published at IEEE INDIACom-2026 (IEEE Xplore, SCOPUS-indexed)
 
-## 🛠️ Tech Stack
+## 🛠️  Tech Stack
 
-**Backend & Infra**: Node.js, Express.js, FastAPI, Docker, Kafka, Elasticsearch, Kibana  
-**Databases**: MongoDB, MySQL, PostgreSQL, SQLite, Supabase  
-**AI integration**: Google's Gemini AI APIs, Meta AI OCR tools, Tesseract OCR, EasyOCR  
-**Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS  
-**Tools & DevOps**: Git, Supabase, Postman, Fluentd, Kubernetes  
-**Languages**: Python, C++, Javascript, Java, C
+**Languages**: Python, C++, C, TypeScript, JavaScript, SQL
+**Frontend**: React.js, TypeScript, TailwindCSS, HTML, CSS
+**Backend & Infra**: Node.js, Express.js, FastAPI, Flask, Docker, Kafka, NGINX, Fluentd, Splunk, Elasticsearch, Kibana
+**Databases**: MongoDB, MySQL, SQLite, Supabase
+**AI / ML**: Google Gemini API, YOLOv8, EasyOCR
+**Tools & DevOps**: Git, GitHub, Postman, Unix
 
+## 🚀 Featured Projects
 
+- **[Korinex AI](https://github.com/aryanmishra333)** — Full-stack SaaS (React, Node.js, Supabase) automating Korean manhwa translation via an EasyOCR + Gemini pipeline (98% OCR accuracy).
+- **[LAMBDA — Serverless Function Platform](https://github.com/aryanmishra333/LAMBDA-Serverless-Function-Platform)** — AWS Lambda-style platform running Python & Node.js in isolated Docker
+containers, with a FastAPI REST API.
+- **Distributed Logging System** — Real-time log aggregation across microservices using Kafka, Fluentd, Elasticsearch & Kibana.
+- **CheatGuard** — ML-powered exam proctoring (MediaPipe + YOLOv8) published at IEEE INDIACom-2026.
 
-## 📫 Let’s Connect
+## 🗣️  Problem Solving
+
+- 🧩 **LeetCode Knight** — ranked 629 / 30k+ in Biweekly Contest 160
+- LeetCode id: [click](https://leetcode.com/u/Aryan_Mishra_3010/)
+
+## 📫 Let's Connect
 
 - 📧 Email: [mailMe](mailto:aryanmishra11c@gmail.com)
 - 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aryan-mishra-9068b31a1/)
-
-## 🗣️ Checkout My Problem Solving Skills [Knight @Leetcode]
-- Leetcode id : [click](https://leetcode.com/u/Aryan_Mishra_3010/)
-
----
-
-
