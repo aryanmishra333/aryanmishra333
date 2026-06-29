@@ -33,7 +33,7 @@ containers, with a FastAPI REST API.
 
 ## 🗣️  Problem Solving
 
-- 🧩 **LeetCode Knight** — ranked 629 / 30k+ in Biweekly Contest 160
+- 🧩 **LeetCode Knight**
 - LeetCode id: [click](https://leetcode.com/u/Aryan_Mishra_3010/)
 
 ## 📫 Let's Connect
