@@ -25,8 +25,8 @@ I'm a Systems, Web Development, Databases, and AI enthusiast who enjoys turning 
 
 ## 🚀 Featured Projects
 
-- **[Korinex AI](https://github.com/aryanmishra333)** — Full-stack SaaS (React, Node.js, Supabase) automating Korean manhwa translation via an EasyOCR + Gemini pipeline (98% OCR accuracy).
-- **[LAMBDA — Serverless Function Platform](https://github.com/aryanmishra333/LAMBDA-Serverless-Function-Platform)** — AWS Lambda-style platform running Python & Node.js in isolated Docker
+- **Korinex AI** — Full-stack SaaS (React, Node.js, Supabase) automating Korean manhwa translation via an EasyOCR + Gemini pipeline (98% OCR accuracy).
+- **LAMBDA — Serverless Function Platform** — AWS Lambda-style platform running Python & Node.js in isolated Docker
 containers, with a FastAPI REST API.
 - **Distributed Logging System** — Real-time log aggregation across microservices using Kafka, Fluentd, Elasticsearch & Kibana.
 - **CheatGuard** — ML-powered exam proctoring (MediaPipe + YOLOv8) published at IEEE INDIACom-2026.
