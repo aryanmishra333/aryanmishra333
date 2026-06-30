@@ -16,12 +16,12 @@ I'm a Systems, Web Development, Databases, and AI enthusiast who enjoys turning 
 
 ## 🛠️  Tech Stack
 
-**Languages**: Python, C++, C, TypeScript, JavaScript, SQL
-**Frontend**: React.js, TypeScript, TailwindCSS, HTML, CSS
-**Backend & Infra**: Node.js, Express.js, FastAPI, Flask, Docker, Kafka, NGINX, Fluentd, Splunk, Elasticsearch, Kibana
-**Databases**: MongoDB, MySQL, SQLite, Supabase
-**AI / ML**: Google Gemini API, YOLOv8, EasyOCR
-**Tools & DevOps**: Git, GitHub, Postman, Unix
+- **Languages**: Python, C++, C, TypeScript, JavaScript, SQL
+- **Frontend**: React.js, TypeScript, TailwindCSS, HTML, CSS
+- **Backend & Infra**: Node.js, Express.js, FastAPI, Flask, Docker, Kafka, NGINX, Fluentd, Splunk, Elasticsearch, Kibana
+- **Databases**: MongoDB, MySQL, SQLite, Supabase
+- **AI / ML**: Google Gemini API, YOLOv8, EasyOCR
+- **Tools & DevOps**: Git, GitHub, Postman, Unix
 
 ## 🚀 Featured Projects
 
