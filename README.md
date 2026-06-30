@@ -12,7 +12,6 @@ I'm a Systems, Web Development, Databases, and AI enthusiast who enjoys turning 
 - 💼 Software Engineer Intern @ Apple
 - 🚀 Focused on building fast, scalable, and AI-powered systems and tools
 - 🔭 I love simplifying backend logic, designing clean APIs, and squeezing performance out of real-time systems
-- 📄 Published at IEEE INDIACom-2026 (IEEE Xplore, SCOPUS-indexed)
 
 ## 🛠️  Tech Stack
 
